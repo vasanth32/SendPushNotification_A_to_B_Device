@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="brown">#f36f21</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0ED9EE</color>
+    <color name="grey">#333333</color>
+    <color name="drakgrey">#80000000</color>
+    <color name="drakergrey">#666666</color>
+    <color name="drakblue">#1196d4</color>
+    <color name="gradient_blue">#1198d6</color>
+    <color name="light_black">#666666</color>
+    <color name="orange">#f36f21</color>
+    <color name="medium_black">#333333</color>
+    <color name="light_white">#e5e5e5</color>
+    <color name="light_blue">#1198d6</color>
+    <color name="light_grey">#e5e5e5</color>
+    <color name="lighter_blue">#0099cc</color>
+    <color name="separator_color">#cccccc</color>
+    <color name="gradient_bg">#0d4e96</color>
+    <color name="light_grey_border">#999999</color>
+    <color name="side_gradint">#4392d0</color>
+    <color name="drawer_line">#666666</color>
+    <color name="title_background">#EEEEEE</color>
+</resources>
